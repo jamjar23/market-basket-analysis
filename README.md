@@ -5,5 +5,5 @@ NB02.py is a market basket analysis that was a problem in CSE6040 (Computation f
 
 IDTs is a heat map in Tableau that I constructed to identify problem origin-destination pairs, sized by volume and colored by transit times. (I'm a big fan of heat maps).
 
-MS_Proj_VBA_txt is not really a "portfolio" item; it's just some code parked here for future reference. I preapred it to manipulate MS Project data so it could be better visualized in Tableau.
+MS_Proj_VBA_txt is not really a "portfolio" item; it's just some code parked here for future reference. I devloped it to manipulate MS Project data in preparation for visualization in Tableau.
 
